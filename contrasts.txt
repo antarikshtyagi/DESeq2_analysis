@@ -1,0 +1,4 @@
+treatment	control
+KO	HA
+WT	HA
+WT	KO

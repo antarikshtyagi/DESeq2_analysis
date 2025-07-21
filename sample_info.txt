@@ -1,0 +1,10 @@
+sample	sampleCondition
+HA_1	HA
+HA_2	HA
+HA_3	HA
+KO_1	KO
+KO_2	KO
+KO_3	KO
+WT_1	WT
+WT_2	WT
+WT_3	WT
